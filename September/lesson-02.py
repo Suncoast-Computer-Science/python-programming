@@ -1,16 +1,18 @@
 # String review
+# Add two strings
 # my_string = "Hello "
 # my_other_string = "World"
 # my_final_string = my_string + my_other_string
 
 # Input review
+# Add input to string
 # my_string = "Hello "
 # my_other_string = input()
 # my_final_string = my_string + my_other_string
 
 # Warm up:
 
-# Input 3 numbers, label them a, b, and c
+# Input 3 numbers, label them a, b 
 # print the sum or a and b
 
 # If statement
@@ -74,8 +76,32 @@
 # Example:
 # Print a 10, but with x amount of zeros
 # i.e. print 10 but with 3 zeroes
-output = 1
-power = int(input())
-for i in range(power):
-  output *= 10
-print(output)
+# output = 1
+# power = int(input())
+# for i in range(power):
+#   output *= 10
+# print(output)
+
+# an alternate and valid way of doing this is with math functions we'll cover later
+# feel free to google it tho
+
+# Now make a string called dan
+# you will take a number
+# print dan that many times in one line with spaces
+# output = ""
+# for i in range(int(input)):
+#   output += " dan"
+# print(output)
+
+# REVIEWS
+# print the remainder of x /2 (x can be any number)
+
+# take 1 number as input
+# if the number is divisible by 2, print even
+# if the number is not divisible by 2, print odd 
+
+# a = int(input())
+# if (a % 2 == 0):
+#     print("even")
+# else:
+#     print("odd")

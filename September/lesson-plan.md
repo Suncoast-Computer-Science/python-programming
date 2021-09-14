@@ -1,6 +1,6 @@
 # Day 01
+* Variables
 * Data types
-    * Variables
     * Integers
         * Math
             * add, subtract, multiply, divide, remainder
@@ -28,15 +28,20 @@
     * else
     * elif
 * For Loops
-* Fizzbuzz
 
 
 # Day 03
+* Review:
+    * if statements
+        * if
+        * else
+        * elif
+    * For loops
+* Fizzbuzz
 * range()
 * Arrays: 
     * indexing from left and right
         * getting the end
     * adding to the end
-    * splice / subarrays
+    * slice / subarrays
 * Arrays are kinda like strings!
-* Rest TBD
