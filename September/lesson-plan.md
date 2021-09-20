@@ -45,3 +45,7 @@
     * adding to the end
     * slice / subarrays
 * Arrays are kinda like strings!
+
+# Day 04
+* Functions!
+* Hop onto Codingbat and grind out problems
