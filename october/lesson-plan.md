@@ -7,9 +7,5 @@
 * More about lists:
   * Deleting items from a list with .pop()
   * String to list conversion with list()
-  * String to list conversion with .join()
   * Check if an item is in string or list with 'in' keyword
- * Initial discussion about Big O notation
- * Loop review 
-  * Loop through lists
- * Getting item separated by spaces from Input with .split()
+  * Getting item separated by spaces from Input with .split()
