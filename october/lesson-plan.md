@@ -7,7 +7,7 @@
 * More about lists:
   * Deleting items from a list with .pop()
   * String to list conversion with list()
-  * list to string with .join()
+  * String to list conversion with .join()
  * Initial discussion about Big O notation
  * Loop review 
   * Loop through lists
