@@ -5,10 +5,10 @@
 * Review lists
   * Getting items from a list
 * More about lists:
-  * Check if item is in list with the in keyword
   * Deleting items from a list with .pop()
   * String to list conversion with list()
   * String to list conversion with .join()
+  * Check if an item is in string or list with 'in' keyword
  * Initial discussion about Big O notation
  * Loop review 
   * Loop through lists
